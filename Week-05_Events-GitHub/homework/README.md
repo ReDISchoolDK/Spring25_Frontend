@@ -2,6 +2,10 @@
 
 Going forward you will submit your exercise by creating a Pull Request.
 
+## Watch
+
+[Video for using Github in VsCode](https://www.youtube.com/watch?v=i_23KUAEtUM)
+
 ## Do
 
 Your homework is to open your very first Pull Request. The goal is to change a file called [my_first_pr.txt](./my_first_pr.txt), which lives in the same directory as this README file.
