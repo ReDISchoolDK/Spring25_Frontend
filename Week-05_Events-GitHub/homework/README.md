@@ -51,8 +51,6 @@ To create your PR follow these steps:
     Now we need to get your commit to the repository
     Push the new branch to the remote repository on GitHub:
 
-    TODO
-
 7. Open a Pull Request
 
     Go to the repository’s page on GitHub.
