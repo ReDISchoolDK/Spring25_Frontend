@@ -11,5 +11,4 @@ This week, you'll finalize your project and learn how to upload and host it on G
 
 | Homework | Link |
 |----------|------|
-| Homework | [Link to Homework](./homework/README.md) |
 | Slides | [Link to Slides]() |

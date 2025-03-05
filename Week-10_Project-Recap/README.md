@@ -9,5 +9,4 @@ This week, you'll initiate your project and work on it. There will also be a com
 
 | Homework | Link |
 |----------|------|
-| Homework | [Link to Homework](./homework/README.md) |
 | Slides | [Link to Slides]() |

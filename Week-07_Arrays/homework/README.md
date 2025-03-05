@@ -1,6 +1,6 @@
 # Homework Week 7
 
-Submit your exercise by creating a Pull Request. To do so you can edit the `restaurant-datrabase.js` file directly.
+Submit your exercise by creating a Pull Request. To do so you can edit the `restaurant-database.js` file directly.
 
 ## Do
  In the file [restaurant-database.js](./restaurant-database.js) you can find an array that represents the database of your restaurant’s website. On this database we want you to do the following tasks:

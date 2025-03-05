@@ -14,5 +14,4 @@ This week, you'll be introduced to objects in JavaScript.
 
 | Homework | Link |
 |----------|------|
-| Homework | [Link to Homework](./homework/README.md) |
 | Slides | [Link to Slides]() |
