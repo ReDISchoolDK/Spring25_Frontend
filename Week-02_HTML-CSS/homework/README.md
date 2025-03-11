@@ -1,17 +1,12 @@
 # Homework Week 2
 
 ## Read
-Only the following sections!!: ‘What is HTML’, ‘Anatomy of an HTML element’, ‘Attributes’ and ‘Anatomy of an HTML document’  
-[MDN Web Docs: Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-Article on CSS  
-A guide for future consultation about flexbox
+[Article on CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+[A guide for future consultation about flexbox](https://github.com/Bakhtiyar-Garashov/flexbox-101)
 
 ## Watch
-[Introduction to HTML - YouTube](https://www.youtube.com/watch?v=PlxWf493en4)
-
 [Video about flexbox](https://www.youtube.com/watch?v=phWxA89Dy94&ab_channel=SlayingTheDragon)
-
 [Introduction to JavaScript](https://www.youtube.com/watch?v=6n4AV5k-7wE&ab_channel=CodingForEverybody)
 
 ## Do
