@@ -3,10 +3,12 @@
 ## Read
 
 [Article on CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
 [A guide for future consultation about flexbox](https://github.com/Bakhtiyar-Garashov/flexbox-101)
 
 ## Watch
 [Video about flexbox](https://www.youtube.com/watch?v=phWxA89Dy94&ab_channel=SlayingTheDragon)
+
 [Introduction to JavaScript](https://www.youtube.com/watch?v=6n4AV5k-7wE&ab_channel=CodingForEverybody)
 
 ## Do
