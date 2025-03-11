@@ -16,4 +16,4 @@ You are a junior front-end developer starting a new job and as your first assign
 
 ![Example Product Card](./product-card.jpg)
 
-Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. You can find which teacher is assigned in the Google drive.
+Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. We will post who to send your homework to in Slack as well.
