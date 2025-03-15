@@ -14,6 +14,8 @@
 ## Do
 You are a junior front-end developer starting a new job and as your first assignment, the company website needs a new ‘product card’ component. The designers are done with the designs and they give it to you, now it’s your time to transform design into living code!
 
+Use flexbox concept
+
 ![Example Product Card](./product-card.jpg)
 
 Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. We will post who to send your homework to in Slack as well.
