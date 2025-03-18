@@ -12,4 +12,4 @@ ordering (amount) (food) from (name of the restaurant )
 - Call the function 3 times with different values for the
 argument
 
-Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. You can find which teacher is assigned in the Google drive.
+Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. We will send out the assignments.
