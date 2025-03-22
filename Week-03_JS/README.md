@@ -23,4 +23,4 @@ This week, you will deepen your understanding of functions and learn about varia
 | Homework | Link |
 |----------|------|
 | Homework | [Link to Homework](./homework/README.md) |
-| Slides | [Link to Slides]() |
+| Slides | [Link to Slides](https://docs.google.com/presentation/d/1HGnGX0jqkjYBCScnrZfh-f38jos-Vx2XjXTmKhsCVt0/edit?usp=sharing) |
