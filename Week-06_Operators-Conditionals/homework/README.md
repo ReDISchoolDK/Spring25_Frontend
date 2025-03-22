@@ -14,4 +14,4 @@ Change the ‘+’ button’s background to red whenever the counter reaches 20
 Remove the Free shipping span whenever the counter reaches 9, or if it reaches 20
 Additionally, whenever it reaches 20, add a span saying “Out of stock”
 
-Create your Pull Request by Sunday 18:00 and send the link to one of us teachers. You can find which teacher is assigned in the Google drive. 
+Create your Pull Request by Sunday 18:00 and send the link to your assigned teacher via Slack. We will send out the assignments.

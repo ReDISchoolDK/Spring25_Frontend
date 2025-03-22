@@ -16,4 +16,4 @@ clicking a button
 ![Example Counter](./counter.jpg)
 
 
-Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. You can find which teacher is assigned in the Google drive.
+Submit your exercise by Sunday 18:00 to your assigned teacher via Slack. We will send out the assignments.

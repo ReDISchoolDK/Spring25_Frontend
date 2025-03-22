@@ -13,4 +13,4 @@ A customer asks you about how many vegetarian dishes you have in the menu, for t
 
 There’s a table that ordered all the dishes containing meat (1x time each dish), and they are ready to pay. Use the reduce method to get the total value of all the dishes that contain meat so that the customer can pay you. Call this variable `totalAmountMeatDishes`.
 
-Create your Pull Request by Sunday 18:00 and send the link to one of us teachers. You can find which teacher is assigned in the Google drive. 
+Create your Pull Request by Sunday 18:00 and send the link to your assigned teacher via Slack. We will send out the assignments.

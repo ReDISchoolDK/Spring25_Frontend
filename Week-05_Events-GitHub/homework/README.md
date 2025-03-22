@@ -68,4 +68,4 @@ To create your PR follow these steps:
 >
 > If you run into any issues or have questions, please post in the Slack channel. We're here to help!
 
-Create your Pull Request by Sunday 18:00 and send the link to one of us teachers. You can find which teacher is assigned in the Google drive. 
+Create your Pull Request by Sunday 18:00 and send the link to your assigned teacher via Slack. We will send out the assignments.

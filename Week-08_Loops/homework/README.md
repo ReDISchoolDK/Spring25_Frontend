@@ -19,3 +19,5 @@ Now we need to go back and practice some DOM manipulation with JavaScript. The i
 - Attach these 4 elements to the `<li>` created before
 - Attach the `<li>` to the `<ul>` element
 - Create a ‘vegetarian’ and ‘meat’ button that filters the products on the page.
+
+Create your Pull Request by Sunday 18:00 and send the link to your assigned teacher via Slack. We will send out the assignments.
