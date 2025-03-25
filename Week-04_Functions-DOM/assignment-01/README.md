@@ -1,4 +1,4 @@
-# Hand-in assignment 1
+# Hand-in Assignment 1
 
 ## Do
 
