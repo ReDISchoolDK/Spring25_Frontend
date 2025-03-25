@@ -15,7 +15,7 @@ This week, you'll build on your understanding of functions and learn how to crea
    - How to select DOM elements
    - What you can do with them
 
-| Homework | Link                                                      |
-| -------- | --------------------------------------------------------- |
-| Homework | [Link to Hand-in Assignment 1](./assignment-01/README.md) |
-| Slides   | [Link to Slides]()                                        |
+| Homework | Link                                                                                                                   |
+| -------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Homework | [Link to Hand-in Assignment 1](./assignment-01/README.md)                                                              |
+| Slides   | [Link to Slides](https://docs.google.com/presentation/d/1DAw0cVbNJqn3EfZseNWg89ronWTjEfISscfrv839Xvc/edit?usp=sharing) |
