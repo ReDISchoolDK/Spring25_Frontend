@@ -1,0 +1,19 @@
+---
+title: 'unshift() and shift()'
+layout: '@/layouts/slide.astro'
+---
+
+mutable operation
+
+```javascript
+let queue = ["person1", "person2"];
+
+// unshift: Add to beginning
+queue.unshift("person0");
+console.log(queue); // ["person0", "person1", "person2"]
+
+// shift: Remove from beginning
+let firstPerson = queue.shift();
+console.log(firstPerson); // "person0"
+console.log(queue); // ["person1", "person2"]
+```

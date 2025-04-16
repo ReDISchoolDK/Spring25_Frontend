@@ -1,0 +1,43 @@
+---
+title: 'Function as argument'
+layout: '@/layouts/slide.astro'
+---
+
+# Normal function
+```javascript
+function my() {
+    console.log("from my function")
+}
+
+my();
+```
+
+
+# function can be stored in variable
+```javascript
+let my = function() {
+    console.log("my my function")
+}
+
+my();
+```
+
+---
+
+# so that, function can be passed as argument
+
+```javascript
+let my = function () {
+  console.log("from my function");
+};
+
+function anotherFun(arg1) {
+  console.log("from anotherFun");
+  arg1();
+}
+
+anotherFun(my);
+
+//from anotherFun
+//from my function
+```

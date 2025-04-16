@@ -1,0 +1,29 @@
+---
+title: 'filter'
+layout: '@/layouts/slide.astro'
+---
+
+# filter with normal function
+```javascript
+let numbers = [1, 2, 3, 4];
+
+function check(n) {
+  return true;
+}
+
+let numbers2 = numbers.filter(check);
+
+console.log(numbers2);
+
+//[1, 2, 3, 4]
+```
+
+# filter with arrow
+```javascript
+let numbers = [1, 2, 3, 4];
+
+let result = numbers.filter((n) => n >= 3);
+
+console.log(result);
+//[ 3, 4 ]
+```

@@ -1,0 +1,43 @@
+---
+title: 'Arrow function easier'
+layout: '@/layouts/slide.astro'
+---
+
+# 1 - normal function
+
+```javascript
+let execute = function(n) {
+  return n*n;
+}
+
+let x = execute(5)
+console.log(x)
+
+// Output:
+// 25
+```   
+
+---
+
+# 2 - arrow
+
+```javascript
+let execute = (n) => {
+  return n * n;
+};
+
+let x = execute(5);
+console.log(x);
+```   
+
+---
+
+# 3 - arrow without return
+* If arrow function body has one `statement` then, `{}` not needed
+
+```javascript
+let execute = (n) => n * n;
+
+let x = execute(5);
+console.log(x);
+```   

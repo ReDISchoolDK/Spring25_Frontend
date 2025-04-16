@@ -1,0 +1,24 @@
+---
+title: 'Destructuring Arrays'
+layout: '@/layouts/slide.astro'
+---
+
+# Extract values into variables
+
+```javascript
+let colors = ["red", "green", "blue"];
+
+// Old way
+let firstColor = colors[0];
+let secondColor = colors[1];
+
+// With destructuring
+let [first, second, third] = colors;
+console.log(first);  // "red"
+console.log(second); // "green"
+
+// Skip elements
+let [primary, , tertiary] = colors;
+console.log(primary);  // "red"
+console.log(tertiary); // "blue"
+```

@@ -1,0 +1,53 @@
+---
+title: 'Sort'
+layout: '@/layouts/slide.astro'
+---
+
+# Sorts elements of an array
+* sort is a mutable function
+* It also returns the same altered array
+
+```javascript
+// Default sorts as strings
+let fruits = ["orange", "apple", "banana"];
+fruits.sort();
+console.log(fruits); // ["apple", "banana", "orange"]
+
+// For numbers, provide a compare function
+let numbers = [40, 1, 5, 200];
+numbers.sort();
+console.log(numbers); // [1, 200, 40, 5] (string order!)
+
+// Correct numeric sort
+numbers.sort((a, b) => a - b);
+console.log(numbers); // [1, 5, 40, 200]
+```
+
+# How works
+* takes first and second value
+* pass that to function
+* wait for return value
+* based on the return value, it will change position of the first and 2nd element
+* again, takes second and third value then pass to function
+* and so on...
+
+# compare
+| compareFn(a, b) return value | sort order |
+| --- | --- |
+| \> 0 | sort `a` after `b`, e.g., `[b, a]` |
+| < 0 | sort `a` before `b`, e.g., `[a, b]` |
+| \=== 0 | keep original order of `a` and `b` |
+
+---
+
+# Sort - array of Objects
+
+```javascript
+const students = [
+  { name: "Alex", grade: 15 },
+  { name: "Devlin", grade: 15 },
+  { name: "Eagle", grade: 13 },
+  { name: "Sam", grade: 14 },
+];
+students.sort((firstItem, secondItem) => firstItem.grade - secondItem.grade);
+```

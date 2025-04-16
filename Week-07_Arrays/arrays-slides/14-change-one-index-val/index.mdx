@@ -1,0 +1,17 @@
+---
+title: 'Change values'
+layout: '@/layouts/slide.astro'
+---
+
+```javascript
+let solarSystem = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
+
+console.log( solarSystem )
+
+solarSystem[0] = "Andromeda"
+//["Andromeda", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
+
+
+solarSystem[2] = 299792458
+//["Andromeda", "Venus", 299792458, "Mars", "Jupiter", "Saturn"]
+```

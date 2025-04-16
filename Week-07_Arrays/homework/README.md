@@ -1,17 +1,60 @@
 # Homework Week 7
 
-Submit your exercise by creating a Pull Request. To do so you can edit the `restaurant-database.js` file directly.
+Submit your exercise by creating a Pull Request.
 
-## Do
-In the file [restaurant-database.js](./restaurant-database.js) you can find an array that represents the database of your restaurant’s website. On this database we want you to do the following tasks:
+# Who reviews your home work? 🧛‍♀️
 
-After some months of your restaurant being open, you realised that the last element in the menu hasn’t been sold in the last 4 months so you decide to remove it from the menu, use an array method to remove the last element of an array and save it in a variable called: `removedMenuItem`.
+- You have to generate the home work submission list
+- Randomly assign students to teachers
+- You have students and teachers array below
+- save the result in a array of objects `[ {...}, {...}, {...} ]`
+- print the result in console.log()
+- once your code works then manually include one more student in the array list, (just type a new student name in the array list)
+- then, run the program, it should still assign properly
+- then try to include one more teacher; still, the program should work. 🙂
 
-Due to inflation you have gone through your finances and you realised that you need to increase all the menu prices by 10%. To do this we want to create a new array (called `increasedMenuDatabase`) containing all the menu items with the mentioned price increase. 
+# Tips
 
-A customer asks you about how many vegetarian dishes you have in the menu, for this you might want to filter the menu and get the amount of items filtered by the type: ‘vegetarian’. Call this variable: `amountVegetariantDishes`.
+- shuffle students array
+- shuffle teachers array
+- pick first student, pick first teacher and assign them.
 
-There’s a table that ordered all the dishes containing meat (1x time each dish), and they are ready to pay. Use the reduce method to get the total value of all the dishes that contain meat so that the customer can pay you. Call this variable `totalAmountMeatDishes`.
+```javascript
+const students = ["s1", "s2", "s3"];
+const teachers = ["t1", "t2"];
 
+//*** your code here ***
+
+//expected output
+//
+// [
+//   {student: "s1", teacher : "t2"},
+//   {student: "s2", teacher : "t2"},
+//   {student: "s3", teacher : "t1"},
+// ]
+```
+
+```javascript
+const students = [
+  "Mehrnoosh",
+  "Maria",
+  "Oumaima",
+  "Yiting",
+  "Sunitha",
+  "Sukhwinder",
+  "Prachi",
+  "Busra",
+  "Paloma",
+  "Annamani",
+  "Sravani",
+  "Natalia",
+  "Fatima",
+  "Tejaswini",
+  "Fulya",
+  "Gloryfel",
+];
+
+const teachers = ["Henderson", "Tifana", "Iga", "Engiber", "Kumaran", "Lukáš", "Tim"];
+```
 
 To submit, create a new repository in your own account by Sunday 18:00 and send the link to your assigned teacher via Slack. We will send out the assignments.

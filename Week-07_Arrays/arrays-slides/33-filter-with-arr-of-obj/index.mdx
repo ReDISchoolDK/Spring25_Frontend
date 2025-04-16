@@ -1,0 +1,24 @@
+---
+title: 'Filter with Array of Object'
+layout: '@/layouts/slide.astro'
+---
+
+
+```javascript
+let zooAnimals = [
+  { type: "bird", name: "peacock" },
+  { type: "bird", name: "parrot" },
+  { type: "animal", name: "tiger" },
+  { type: "civilization", name: "viking" },
+  { type: "animal", name: "elephant" },
+  { type: "bird", name: "crow" },
+];
+
+let birds = zooAnimals.filter((animal) => animal.type === "bird");
+console.log(birds);
+// [
+//  { type: "bird", name: "peacock" },
+//  { type: "bird", name: "parrot" },
+//  { type: "bird", name: "crow" },
+// ]
+```

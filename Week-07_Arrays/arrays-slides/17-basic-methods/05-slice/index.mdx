@@ -1,0 +1,18 @@
+---
+title: 'slice()'
+layout: '@/layouts/slide.astro'
+---
+
+Returns a portion of an array into a new array
+
+```javascript
+let animals = ["lion", "tiger", "bear", "wolf", "fox"];
+
+// slice(start, end) - end not included
+let wildcats = animals.slice(0, 2);
+console.log(wildcats); // ["lion", "tiger"]
+
+// Omit end parameter to slice to the end
+let lastThree = animals.slice(2);
+console.log(lastThree); // ["bear", "wolf", "fox"]
+```

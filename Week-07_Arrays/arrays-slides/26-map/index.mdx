@@ -1,0 +1,30 @@
+---
+title: 'map'
+layout: '@/layouts/slide.astro'
+---
+
+# most important function
+* it will return a value from function
+
+```javascript
+let numbers = [1, 2, 3, 4];
+
+let numbers2 = numbers.map((n) => n * 100);
+
+console.log(numbers2);
+//[ 100, 200, 300, 400 ]
+```
+
+```
+   ┌───┬───┬───┬───┐  
+   │ 1 │ 2 │ 3 │ 4 │  
+   └──┬┴─┬─┴─┬─┴─┬─┘  
+      │  │   │   │    
+     ┌▼──▼───▼──┐│    
+     │ function ◄┘     <-- Machine to process
+     └┬──┬───┬─┬┘     
+      │  │   │ └─┐    
+   ┌──▼┬─▼─┬─▼─┬─▼─┐  
+   │100│200│300│400│  
+   └───┴───┴───┴───┘  
+```

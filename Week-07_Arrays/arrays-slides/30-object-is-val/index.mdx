@@ -1,0 +1,40 @@
+---
+title: 'Object is a value'
+layout: '@/layouts/slide.astro'
+---
+
+# everything is object
+
+```javascript
+let x = 5 // 5 is a value
+let a = [6, 0, 4, 8] // all are values
+```
+
+# everything is value (just another name) 😑
+* array elements are values
+* the whole array is also a value
+* object is a value
+
+
+```javascript
+let x = [value1, value2, value3, value4] 
+let y = value5
+let z = {name: value6}
+```
+
+# Replace value1, 2, 3, 4 with any value
+* remember everything is value
+
+```javascript
+//object can be a value inside array
+let x = [5, "green", 9.9, false, {name: "kumaran"} ]
+
+//array can be a value inside object
+let z = {name: [6, 7, 1]}
+
+//array can be a value inside array
+let a = [8, 9, [78, 54], 5]
+
+//object can be inside an object
+let y = {name: "Sony", fav: { food: "Rice", color : "Red" } }
+```

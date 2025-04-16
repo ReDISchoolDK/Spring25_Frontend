@@ -1,0 +1,21 @@
+---
+title: 'join()'
+layout: '@/layouts/slide.astro'
+---
+
+Creates a string from array elements
+
+```javascript
+let words = ["Hello", "beautiful", "world"];
+
+// Default separator is comma
+let commaString = words.join();
+console.log(commaString); // "Hello,beautiful,world"
+
+// Custom separator
+let sentence = words.join(" ");
+console.log(sentence); // "Hello beautiful world"
+
+let dashString = words.join("-");
+console.log(dashString); // "Hello-beautiful-world"
+```

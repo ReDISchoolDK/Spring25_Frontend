@@ -1,0 +1,40 @@
+---
+title: '🏋️‍♀️ Exercise - Read object and array - 2'
+layout: '@/layouts/slide.astro'
+---
+
+
+```javascript
+let persons = [
+  {
+    id: 101,
+    name: "kumaran",
+    home: [
+      { country: "ind", city: "dgl", type: "village" },
+      { country: "ind", city: "che", type: "city" },
+      { country: "dk", city: "bal", type: "city" },
+    ],
+    language: ["Tamil", "English"],
+    height: 163,
+    fav: { color: "blue", programming: "go", movie: { name: "triangle", release: 2009 } },
+  },
+  {
+    id: 102,
+    name: "sony",
+    home: [
+      { country: "ind", city: "vdsr", type: "village" },
+      { country: "dk", city: "ballerup", type: "city" },
+    ],
+    language: ["Danish", "Tamil"],
+    height: 143,
+    fav: { color: "red", programming: "javascript", movie: { name: "mark antony", release: 2023 } },
+  },
+];
+
+console.log(); // Tamil  <-- id:102's
+console.log(); // mark antony
+console.log(); // 102
+console.log(); // blue
+console.log(); // ballerup
+console.log(); // 143
+```

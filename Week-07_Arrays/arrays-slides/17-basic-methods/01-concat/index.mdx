@@ -1,0 +1,18 @@
+---
+title: 'concat()'
+layout: '@/layouts/slide.astro'
+---
+
+Creates a new array by merging existing arrays
+
+```javascript
+let fruits = ["apple", "banana"];
+let vegetables = ["carrot", "potato"];
+
+let groceries = fruits.concat(vegetables);
+console.log(groceries); // ["apple", "banana", "carrot", "potato"]
+
+// Can concatenate multiple arrays
+let dairy = ["milk", "cheese"];
+let fullList = fruits.concat(vegetables, dairy);
+```

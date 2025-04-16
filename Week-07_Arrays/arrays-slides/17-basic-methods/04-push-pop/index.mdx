@@ -1,0 +1,17 @@
+---
+title: 'push() and pop()'
+layout: '@/layouts/slide.astro'
+---
+
+```javascript
+let stack = ["book1", "book2"];
+
+// push: Add to end
+stack.push("book3");
+console.log(stack); // ["book1", "book2", "book3"]
+
+// pop: Remove from end
+let lastItem = stack.pop();
+console.log(lastItem); // "book3"
+console.log(stack); // ["book1", "book2"]
+```

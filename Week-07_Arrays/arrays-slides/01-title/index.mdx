@@ -1,0 +1,21 @@
+---
+title: ''
+layout: '@/layouts/slide.astro'
+---
+import React from "react";
+import ColourfulText from "@/components/ui/colourful-text";
+import { motion } from "motion/react";
+import { BackgroundBeamsWithCollision } from "@/components/ui/background-beams-with-collision";
+
+<BackgroundBeamsWithCollision  client:load>
+
+<div>
+<div className=" text-center bg-clip-text text-transparent bg-no-repeat bg-gradient-to-r from-purple-500 via-violet-500 to-pink-500">
+<span >ReDi school - Web development - Week 7</span>
+</div>
+
+<div className="antialiased  text-9xl font-bold text-center">
+<ColourfulText  client:load text="Arrays" />
+</div>
+</div>
+</BackgroundBeamsWithCollision>

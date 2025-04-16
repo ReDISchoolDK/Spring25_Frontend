@@ -1,0 +1,22 @@
+---
+title: 'Index can be an expression'
+layout: '@/layouts/slide.astro'
+---
+
+```javascript
+let x = ["photon", "bosons", "proton", "muon", "tau"]
+        //  0         1          2        3      4
+
+console.log( x[0] )     //photon
+console.log( x[1+2] )   // x[3] --> muon
+
+let y = 4
+console.log( x[y] )     // x[4] --> tau
+
+```
+
+# Syntax
+
+```javascript
+arrayVariable[expression]
+```
