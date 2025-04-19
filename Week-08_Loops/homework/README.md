@@ -5,7 +5,7 @@
 
 ## Watch
 
-[Video about loops](https://www.freecodecamp.org/news/objects-in-javascript/)
+[Video about loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ&feature=youtu.be)
 
 ## Do
 Now we need to go back and practice some DOM manipulation with JavaScript. The idea is to use the powers of loops and arrays to build our website from the [menu-database.js](./menu-database.js) database. The pseudocode for this task would look something like:
