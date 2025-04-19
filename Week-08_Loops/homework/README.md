@@ -1,6 +1,5 @@
 # Homework Week 8
 
-Submit your exercise by creating a Pull Request. To do so you can edit the `restaurant-datrabase.js` file directly.
 ## Read
 [Article on JS objects](https://www.freecodecamp.org/news/objects-in-javascript/) (next lecture topic)
 
