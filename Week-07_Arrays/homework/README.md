@@ -19,6 +19,41 @@ Submit your exercise by creating a Pull Request.
 - shuffle teachers array
 - pick first student, pick first teacher and assign them.
 
+## Tip - How to shuffle an array
+
+```javascript
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const shuffled = numbers.sort(() => Math.random() - 0.5);
+console.log(shuffled);
+```
+
+## Tip - Create object with map
+
+```javascript
+const numbers = [1, 2, 3, 4];
+const obj = numbers.map((n) => ({ property: n }));
+console.log(obj);
+
+//Output
+//
+// [
+//   {
+//     "property": 1
+//   },
+//   {
+//     "property": 2
+//   },
+//   {
+//     "property": 3
+//   },
+//   {
+//     "property": 4
+//   }
+// ]
+```
+
+# Use below code as a starting point
+
 ```javascript
 const students = ["s1", "s2", "s3"];
 const teachers = ["t1", "t2"];
@@ -33,6 +68,8 @@ const teachers = ["t1", "t2"];
 //   {student: "s3", teacher : "t1"},
 // ]
 ```
+
+# You can use below sample array
 
 ```javascript
 const students = [
