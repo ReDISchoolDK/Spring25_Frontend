@@ -10,4 +10,4 @@ The purpose of the week is that the students are introduced to loops.
 | Homework | Link |
 |----------|------|
 | Homework | [Link to Homework](./homework/README.md) |
-| Slides | [Link to Slides]() |
+| Slides | [Link to Slides](https://docs.google.com/presentation/d/1rqqqxAmr7e6535T-_Yl__D9FxOppfhscyFpoWsM6lfw/edit?usp=sharing) |
