@@ -14,6 +14,5 @@ This week, you'll be introduced to objects in JavaScript.
    - CRUD operations
 3. Introduction to the final project
 
-| Homework | Work on your final project                                                                                             |
-| -------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Slides   | [Link to Slides](https://docs.google.com/presentation/d/1LPaXi-3SZemPU_82gHBGsN4aq_go810qUUNRQ9TdARg/edit#slide=id.p1) |
+| Slides | [Link to Slides](https://docs.google.com/presentation/d/1LPaXi-3SZemPU_82gHBGsN4aq_go810qUUNRQ9TdARg/edit#slide=id.p1) |
+| ------ | ---------------------------------------------------------------------------------------------------------------------- |
