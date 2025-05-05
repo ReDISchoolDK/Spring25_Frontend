@@ -1,12 +1,13 @@
-# Week 10: Project Work Week / Recap of Functions and Control Flow
+# Week 10: Project Work Week / Recap of Objects and Control Flow
 
 ## Goals for the Week
-This week, you'll initiate your project and work on it. There will also be a compulsory recap on functions and control flow in the second half of the day.
+
+This week, you'll initiate your project and work on it. There will also be a compulsory recap on loops and objects in the first half of the lecture.
 
 ### Topics
-1. Initiating your project
-2. Recap of functions and control flow
 
-| Homework | Link |
-|----------|------|
-| Slides | [Link to Slides]() |
+1. Recap of loops and objects
+2. Initiating your project
+
+| Slides | [Link to Slides](https://docs.google.com/presentation/d/12u6yDorENolQlatkf1AL0GJ1bbTZnbFz-T_6pX37Yso/edit?usp=sharing) |
+| ------ | ---------------------------------------------------------------------------------------------------------------------- |
