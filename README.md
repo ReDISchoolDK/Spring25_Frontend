@@ -14,5 +14,5 @@ We hope you enjoy the course and learn a lot!
 | Week 06 | [Logical Operators and Conditionals](./Week-06_Operators-Conditionals/README.md) |
 | Week 07 | [Arrays](./Week-07_Arrays/README.md) |
 | Week 09 | [Objects](./Week-09_Objects/README.md) |
-| Week 10 | [Project Work Week / Recap of Functions and Control Flow](./Week-10_Project-Recap/README.md) |
+| Week 10 | [Project Work Week / Recap of Objects and Control Flow](./Week-10_Project-Recap/README.md) |
 | Week 11 | [Work on Project & Hosting on GitHub](./Week-11_Project-GitHub/README.md) |
